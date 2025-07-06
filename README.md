@@ -6,9 +6,9 @@ I want to focus on my work : that's why I created SSOC, a simple and stupid Outl
 
 ## Screenshots
 ### Home Screen
-![SSOC Screenshot](https://raw.githubusercontent.com/2lazy2debug/SSOC/main/screenshots/home.png)
+![SSOC Screenshot](https://raw.githubusercontent.com/2lazy2debug/SSOC/refs/heads/main/screenshots/home.png)
 ### Email Details
-![SSOC Screenshot](https://raw.githubusercontent.com/2lazy2debug/SSOC/main/screenshots/view_mail.png)
+![SSOC Screenshot](https://raw.githubusercontent.com/2lazy2debug/SSOC/refs/heads/main/screenshots/view_mail.png)
 
 ## 🛠️ Tech stack 
 - PowerShell
