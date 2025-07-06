@@ -4,6 +4,12 @@ As a data analyst, I often try to not get distracted by my inbox constantly ping
 
 I want to focus on my work : that's why I created SSOC, a simple and stupid Outlook client that allows me to read my emails without all the distractions of a full-fledged email client, that holds in a 1/4 of my screen (with font size set to 10px).
 
+## Screenshots
+### Home Screen
+![SSOC Screenshot](https://raw.githubusercontent.com/2lazy2debug/SSOC/main/screenshots/home.png)
+### Email Details
+![SSOC Screenshot](https://raw.githubusercontent.com/2lazy2debug/SSOC/main/screenshots/view_mail.png)
+
 ## 🛠️ Tech stack 
 - PowerShell
 - Outlook COM object
@@ -38,5 +44,6 @@ You can find it here: [📧 QuickMail](https://github.com/2lazy2debug/quickmail)
 - Outlook installed on your computer (uses the Outlook COM object)
 
 ## 🚧 Improvements - WIP
+- Add importance support (high, normal, low)
 - Adding support for folder selection
 - 'f' Quick action works for me only, might implement a way to register some custom ones 
